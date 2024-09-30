@@ -1,2 +1,3 @@
-# test
-Showing the flow of Git &amp; Github use
+# Gitflow (test)
+Showing the flow of Git & Github use
+
